@@ -20,4 +20,4 @@ services:
     container_name: crediplus_front
     restart: always
     ports:
-      - 7073:8080
+      - 7073:80
