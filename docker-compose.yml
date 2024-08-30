@@ -12,5 +12,5 @@ services:
     environment:
       - TZ=America/Bogota
       - ASPNETCORE_ENVIRONMENT=Development
-      - ASPNETCORE_URLS=http://+:9070
+      - ASPNETCORE_URLS=http://+:80
   
