@@ -13,8 +13,8 @@ services:
       - TZ=America/Bogota
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_URLS=http://+:80
-  
-    crediplus_front:
+
+  crediplus_front:
     build:
       context: ./FrontEnd
     container_name: crediplus_front
