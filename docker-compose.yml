@@ -14,3 +14,10 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_URLS=http://+:80
   
+    crediplus_front:
+    build:
+      context: ./FrontEnd
+    container_name: crediplus_front
+    restart: always
+    ports:
+      - 7071:80
