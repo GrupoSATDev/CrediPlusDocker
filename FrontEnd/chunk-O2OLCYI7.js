@@ -1,0 +1,1 @@
+import"./chunk-NEB6MB4Y.js";var t=[{path:"",children:[{path:"solicitudes",loadChildren:()=>import("./chunk-NQJD55CW.js")},{path:"tasas",loadChildren:()=>import("./chunk-ECOYC77O.js")},{path:"tipos-pagos",loadChildren:()=>import("./chunk-NWCPKKGQ.js")}]}];export{t as default};
