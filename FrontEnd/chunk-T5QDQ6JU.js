@@ -1,0 +1,1 @@
+import{$ as e,f as o}from"./chunk-MZ7JCHPI.js";var f=(()=>{let t=class t{constructor(){this.stateGrid=new o}};t.\u0275fac=function(i){return new(i||t)},t.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"});let r=t;return r})();export{f as a};
