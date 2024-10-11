@@ -1878,7 +1878,10 @@
           "DataLayer": "1.0.0"
         },
         "runtime": {
-          "BusinessLayer.dll": {}
+          "BusinessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DataLayer/1.0.0": {
@@ -1890,7 +1893,10 @@
           "ServiceStack.Client": "8.3.0"
         },
         "runtime": {
-          "DataLayer.dll": {}
+          "DataLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Domain/1.0.0": {
@@ -1899,7 +1905,10 @@
           "System.Text.Json": "8.0.4"
         },
         "runtime": {
-          "Domain.dll": {}
+          "Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
