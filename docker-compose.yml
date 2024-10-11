@@ -21,3 +21,11 @@ services:
     restart: always
     ports:
       - 7073:80
+
+    crediplus_usuarios:
+    build:
+      context: ./FrontEnd
+    container_name: crediplus_usuarios
+    restart: always
+    ports:
+      - 7079:80
