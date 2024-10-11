@@ -1,1 +1,0 @@
-var A=function(e){return e.APROBADA="Aprobada",e.RECHAZADA="Rechazada",e.PENDIENTE="Pendiente",e.PENDIENTE_DESEMBOLSO="PendienteDesembolso",e}(A||{}),n=function(e){return e.APROBADA="e626ea69-e995-4462-be9a-905326714781",e.RECHAZADA="e626ea69-e995-4462-be9a-905326714780",e.PENDIENTE="e626ea69-e995-4462-be9a-905326714782",e}(n||{});export{A as a,n as b};
