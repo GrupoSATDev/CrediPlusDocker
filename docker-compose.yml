@@ -22,7 +22,7 @@ services:
     ports:
       - 7073:80
 
-    crediplus_usuarios:
+  crediplus_usuarios:
     build:
       context: ./Usuarios
     container_name: crediplus_usuarios
