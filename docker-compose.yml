@@ -24,7 +24,7 @@ services:
 
     crediplus_usuarios:
     build:
-      context: ./FrontEnd
+      context: ./Usuarios
     container_name: crediplus_usuarios
     restart: always
     ports:
