@@ -1,1 +1,0 @@
-import"./chunk-NEB6MB4Y.js";var a=[{path:"",children:[{path:"cobros",loadChildren:()=>import("./chunk-2UZEXHCD.js")},{path:"aliados",loadChildren:()=>import("./chunk-TZPVV5GH.js")}]}];export{a as default};
