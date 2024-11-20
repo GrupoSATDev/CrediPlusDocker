@@ -1,1 +1,0 @@
-import"./chunk-NEB6MB4Y.js";var a=[{path:"",children:[{path:"cuentas",loadChildren:()=>import("./chunk-YNKPP2WM.js")},{path:"bancos",loadChildren:()=>import("./chunk-FJB4WPBI.js")}]}];export{a as default};
