@@ -1,6 +1,10 @@
 {
   "configVersion": 1,
+<<<<<<< Updated upstream
   "timestamp": 1732151620383,
+=======
+  "timestamp": 1732156841814,
+>>>>>>> Stashed changes
   "index": "/index.html",
   "assetGroups": [
     {
