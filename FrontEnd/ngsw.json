@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732233619871,
+  "timestamp": 1732234577565,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -107,6 +107,7 @@
         "/favicon.ico",
         "/index.html",
         "/main-X66T4KLM.js",
+        "/manifest.webmanifest",
         "/polyfills-A7MJM4D4.js",
         "/styles-WROLXT6U.css"
       ],
@@ -221,6 +222,7 @@
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/index.html": "7e10f72b3fa1811b6b537d69b6773d91c2e30b74",
     "/main-X66T4KLM.js": "3083f51475fa738be82cb9db09d9aa997338e83e",
+    "/manifest.webmanifest": "86e0375128bbf492c4385bc3c472e8e3284bf258",
     "/polyfills-A7MJM4D4.js": "547053781d5952561abe68a51cc6c1a2b1b51c55",
     "/styles-WROLXT6U.css": "2093ff43a8a766d971a68597e1d46dd6ae747848"
   },
