@@ -1,0 +1,1 @@
+import"./chunk-NEB6MB4Y.js";var a=[{path:"",children:[{path:"resumen-ejecutivo",loadChildren:()=>import("./chunk-4KYKILUK.js")},{path:"rentabilidad",loadChildren:()=>import("./chunk-4OZFLUOM.js")},{path:"cartera",loadChildren:()=>import("./chunk-ORCE3HCE.js")},{path:"financieras",loadChildren:()=>import("./chunk-T7YFZC3O.js")}]}];export{a as default};
