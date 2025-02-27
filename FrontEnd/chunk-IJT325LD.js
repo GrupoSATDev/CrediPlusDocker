@@ -1,1 +1,0 @@
-import"./chunk-NEB6MB4Y.js";var o=[{path:"consumos",loadChildren:()=>import("./chunk-YNZ37PXJ.js")},{path:"desembolsos",loadChildren:()=>import("./chunk-SFEGRJFO.js")},{path:"cobros",loadChildren:()=>import("./chunk-KYUPO7LX.js")}];export{o as default};
